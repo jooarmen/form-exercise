@@ -1,0 +1,37 @@
+#form-div {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    width: 15rem;
+}
+
+#first-name-input{
+    width: 15.5rem;
+    margin: 1rem 0 0 0;
+}
+
+#submit-button{
+    width: 16rem;
+    margin: 1rem 0 0 0;
+}
+
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+.column{
+   display: flex;
+   justify-content: center;
+   flex-direction: column;
+}
+
+.lower-half{
+    height: 6.5rem;
+    display: flex;
+    flex-direction: column;
+}
+#options{
+    margin: 2.85rem 0 0 0;
+}
